@@ -21,7 +21,7 @@ Responsive design for various screen sizes.
 
 ## Installation
 
-Clone the repository: git clone https://github.com/yourusername/netflix-clone.git
+Clone the repository: git clone https://github.com/abitoffka/netflixclone.git
 Open the project in Xcode.
 Build and run the app on your iOS device or simulator.
 
