@@ -13,10 +13,10 @@ The Youtube API and The Movie Database were fetched into app for getting the lat
 
 ## Features
 
-Browse a curated collection of movies and TV shows.
-View detailed information about each title, including descriptions and ratings.
-Play trailers for selected titles.
-Search for specific movies and shows.
+Browse a curated collection of movies and TV shows.\n
+View detailed information about each title, including descriptions and ratings.\n
+Play trailers for selected titles.\n
+Search for specific movies and shows.\n
 Responsive design for various screen sizes.
 
 ## Installation
