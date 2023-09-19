@@ -32,14 +32,6 @@ Explore the available content by browsing or searching.
 Tap on a title to view its details.
 Enjoy the Netflix-like experience on your SwiftUI app!
 
-## Screenshots
-
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-19 at 23 51 14](https://github.com/abitoffka/netflixclone/assets/96001315/d159eb3a-4ab0-436e-b269-1cba5abbcab4)
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-19 at 23 51 19](https://github.com/abitoffka/netflixclone/assets/96001315/985b7a2d-a8cc-4241-8011-a2876f4b4bf6)
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-19 at 23 51 21](https://github.com/abitoffka/netflixclone/assets/96001315/c81819bb-0857-4381-a96a-36c3696d59ca)
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-19 at 23 51 25](https://github.com/abitoffka/netflixclone/assets/96001315/e71e1896-6fc9-4245-bfc0-aa4dc13ad7b9)
-![Simulator Screenshot - iPhone 14 Pro - 2023-09-19 at 23 51 27](https://github.com/abitoffka/netflixclone/assets/96001315/3a491002-b156-4020-aa39-a686ef3ec918)
-
 ## License
 
 No License
