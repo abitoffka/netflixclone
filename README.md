@@ -6,7 +6,7 @@ https://github.com/abitoffka/netflixclone/assets/96001315/6c69553f-a341-4ddd-98f
 
 ## Description
 
-This SwiftUI-based Netflix Clone app replicates the basic functionalities of the popular streaming platform, Netflix. 
+This UIKit-based Netflix Clone app replicates the basic functionalities of the popular streaming platform, Netflix. 
 It provides a simplified user interface for browsing and viewing movie and TV show content
 including main and search pages as well as downloads' and upcoming movies' list. 
 The Youtube API and The Movie Database were fetched into app for getting the latest up-to-date movies and series.
